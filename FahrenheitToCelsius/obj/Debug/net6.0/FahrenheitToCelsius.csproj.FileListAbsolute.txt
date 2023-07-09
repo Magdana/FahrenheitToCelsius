@@ -1,0 +1,15 @@
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\net6.0\FahrenheitToCelsius.exe
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\net6.0\FahrenheitToCelsius.deps.json
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\net6.0\FahrenheitToCelsius.runtimeconfig.json
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\net6.0\FahrenheitToCelsius.dll
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\net6.0\FahrenheitToCelsius.pdb
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.csproj.AssemblyReference.cache
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.AssemblyInfoInputs.cache
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.AssemblyInfo.cs
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.dll
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\refint\FahrenheitToCelsius.dll
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.pdb
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\FahrenheitToCelsius.genruntimeconfig.cache
+C:\Users\magda\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\net6.0\ref\FahrenheitToCelsius.dll
